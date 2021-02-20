@@ -1,5 +1,11 @@
 .header__links {
-    position: absolute;
-    right: 0;
-    bottom: 6px;
+    margin-bottom: 6px;
+    display: flex;   /* тут был абсолют
+                    надо завязывать с версткой по ночам :-( */
+}
+
+@media screen and (max-width: 767px) {
+    .header__links {
+        margin-bottom: 8px;
+    }
 }
