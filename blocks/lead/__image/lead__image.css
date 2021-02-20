@@ -1,6 +1,3 @@
-.lead__image {
-    box-align: center;
-}
 
 @media screen and (max-width: 1279px) {
     .lead__image {
