@@ -12,6 +12,6 @@
 Вопреки кривым рукам студента (верстальщика), получился сайт очень даже ничего!
 
 
-**[Ссылка на GitHub](https://github.com/Cinium/russian-travel.git)**
+**[Ссылка на проект](https://cinium.github.io/russian-travel/)**
 
 
