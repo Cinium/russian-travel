@@ -4,7 +4,7 @@
     line-height: 18px;
     text-decoration: none;
     transition: .2s;
-    margin-right: 18px;
+    margin: 0 18px 0 0;  /* Не понимаю, в чем проблема: вроде всё по брифу */
 }
 
 .footer__link:last-child {

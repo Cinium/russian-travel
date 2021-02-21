@@ -16,7 +16,7 @@
     .place__title {
         font-size: 32px;
         line-height: 35px;
-        padding-left: calc(100% - 95%);
-        padding-right: calc(100% - 95%);
+        padding-left: 5%;
+        padding-right: 5%;
     }
 }

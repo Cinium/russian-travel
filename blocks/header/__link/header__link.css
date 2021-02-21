@@ -5,6 +5,11 @@
     line-height: 28px;
     align-self: flex-end;
     margin-right: 18px;
+    transition: .2s ease;
+}
+
+.header__link:hover {
+    opacity: .8;
 }
 
 .header__link:last-child {
